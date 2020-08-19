@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Introduction à l'informatique
+### _Pour les étudiants en bioécologie_
+
+![Introduction](/images/banniere.jpeg)
 
 You can use the [editor on GitHub](https://github.com/OlivierRoss/bioecologie/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
