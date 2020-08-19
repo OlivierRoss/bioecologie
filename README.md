@@ -3,32 +3,16 @@
 
 ![Introduction](/images/banniere.jpeg)
 
-Introduction avec plein de bonnes intentions
+Voici le site d'un cours bien utile qui vous permettra d'exprimer plus clairement vos idées et qui vous permettra d'analyser de façon (relativement) fine les données que vous aurez récoltées. Rien de d'autre ambitieux, que des choses utiles!
+
+#### Les sujets que nous allons aborder :
+- Le système informatique du Cégep de Sherbrooke (Comment s'y retrouver) 
+- Les fonctionnalités incontournables de Word (Comment faire un beau document)
+- Les fonctionnalités de base d'Excel (Comment entrer les données de façon claires dans Excel)
+- Des fonctionnalités avancées d'Excel (Comment faire parler les données)
 
 ### Word
 
-Vous trouverez les informations sur Word ici : [Word](/word/introduction)
 
-### Markdown
+Vous trouverez les informations sur Word ici : [Word](/word/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
