@@ -12,8 +12,7 @@ Voici le site d'un cours bien utile qui vous permettra d'exprimer plus clairemen
 - Des fonctionnalités avancées d'Excel (Comment faire parler les données)
 
 ### Le Cégep
-Pas facile de naviguer dans tous les systèmes du Cégep. Pour vous y retrouver, [Suivez le guide](/cegep/)
-Le contenu du premier cours portera uniquement sur ce sujet et nous devrions déborder un peu sur le 2e cours. Pas de panique nous avons tout notre temps.
+Pas facile de naviguer dans tous les systèmes du Cégep. Pour vous y retrouver, [Suivez le guide](/cegep/). Le contenu du premier cours portera uniquement sur ce sujet et nous devrions déborder un peu sur le 2e cours.
 
 ### Word
 
