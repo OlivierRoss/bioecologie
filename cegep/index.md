@@ -86,7 +86,7 @@ Il est important de bien se déconnecter à chaque fois que vous terminer l'util
 Pour vous déconnecter de votre session de travail, vous pouvez cliquer sur le bouton Windows complètement en bas à gauche de l'écran et choisir "déconnexion" ou "redémarrer"
 
 ### Remise des travaux
-À venir
+Tel que mentionné plus tôt, à moins d'indication contraire, je vous demanderai toujours de me remettre vos travaux par MIO à l'aide d'une pièce jointe attachée à votre message.
 
 ### Ghosting
 À venir
