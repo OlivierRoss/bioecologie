@@ -45,11 +45,12 @@ C'est probablement l'ensemble d'outils que vous utiliserez le plus dans votre vi
 
 Pour accéder à votre compte Office 365 fourni par le Cégep, voici les étapes à suivre :
 - Naviguez jusqu'à [https://portal.office.com/](https://portal.office.com/)
-- Votre nom d’utilisateur est votre numéro de DA suivi de « @cegepsherbrooke.qc.ca ». Ex: ```20150388@cegepsherbrooke.qc.ca```
+- Votre nom d’utilisateur est votre numéro de DA suivi de « @cegepsherbrooke.qc.ca ». 
+  - Ex: ```20150388@cegepsherbrooke.qc.ca```
 - Votre de mot de passe est celui que vous utilisez pour vous connecter à l'ordinateur.
   - Note : **Si vous changez votre mot de passe d'ordinateur au Cégep vous modifierez votre mot de passe pour office et vice versa**
 
-!(L'accueil de Office)[accueil_office.png]
+![L'accueil d'Office](accueil_office.png)
 
 ### Votre espace personnel (T:)
 
