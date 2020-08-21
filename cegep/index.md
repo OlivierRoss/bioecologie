@@ -4,10 +4,10 @@ Les sujets que nous allons aborder:
 - **Office 365** : quand il y a de la gratuité, il faut se gâter
 - **Votre espace personnel (T:)** : Tant qu'à y être, le M:. Mais pas le C: !
 - **Clef USB** : c'est délicat 
-- **Remise de travaux** : nos secrets à nous
-- **Terminer une session de travail** : vous ne laisseriez pas vos portes de voiture débarrées ...
-- **Ghosting** : pas si effrayant
 - **Impression** : quelques trucs pour garder le fil
+- **Terminer une session de travail** : vous ne laisseriez pas vos portes de voiture débarrées ...
+- **Remise de travaux** : nos secrets à nous
+- **Ghosting** : pas si effrayant
 
 ### SAM, LÉA et MIO
 Le Cégep de Sherbrooke vous offre trois plateformes principales sur lesquelles, tout au long de votre parcours à cette vénérable institution, pouvoir :
@@ -60,7 +60,33 @@ Pour accéder à votre compte Office 365 fourni par le Cégep, voici les étapes
 - Cliquez sur "Ce PC"
 - Cliquez sur le dossier ```nomdefamillecoupeprenomcoupe (T:)```
 
-Tous les fichiers que vous enregistrez vous appartiennent et seront conservés à long terme. Les fichiers que vous laisserez sur le "bureau" de l'ordinateur ou sur le C: seront effacés.
+Tous les fichiers que vous enregistrez sur le T: vous appartiennent et seront conservés à long terme. Les fichiers que vous laisserez sur le "bureau" de l'ordinateur ou sur le C: seront effacés.
 
-Dernier emplacement réseau qui vous sera probablement utile lors de votre séjour au Cégep : le M:.
+Dernier emplacement réseau qui vous sera probablement utile lors de votre séjour au Cégep : le M:. C'est un endroit de partage entre les étudiants et les professeurs d'un cours spécifique. Dans votre M:, vous trouverez un dossier par cours que vous avez cette session. Dans chaque dossier de cours vous trouverez deux sous-dossiers :
+- Public : c'est un dossier dans lequel les enseignants peuvent mettre des fichiers et dans lequel les étudiants peuvent copier des fichiers. Le contraire n'est pas vrai.
+- Retour : c'est un dossier dans lequel les étudiants peuvent mettre des fichiers, mais ne peuvent voir les fichiers des autres ni même modifier les fichiers qu'ils ont mis eux-même. C''est un dossier qui sert typiquement à remettre les travaux pratiques.
 
+### Clef USB
+Pour connecter une clef USB à votre ordinateur, rien de plus simple : vous n'avez qu'à la brancher dans le trou qui lui correspond.
+
+Pour mettre des fichiers sur une clef USB, vous pouvez y copier des fichiers en :
+- Ouvrant un explorateur de fichier
+- Cliquant sur la clef USB qui vous appartient dans le menu à droite
+
+Pour déconnecter une clef USB, il faut simplement prendre le temps *d'éjecter* la clef USB, au risque de perdre des données. Pour éjecter la clef USB, deux solutions s'offrent à vous :
+- Dans le menu de la barre des tâches, en bas à droite de l'écran, vous trouverez une icône (![Icône de clef ush](/clef_usb.png)). Faites un clic droit (ouverture du menu contextuel) sur l'icône  et cliquez "éjecter"
+- Dans le menu à droite d'un explorateur de fichier, trouvez votre clef USB, faites un clic droit (ouverture du menu contextuel) sur l'icône et cliquez "éjecter"
+
+### Impression
+À venir
+
+### Terminer une session de travail
+Il est important de bien se déconnecter à chaque fois que vous terminer l'utilisation d'un ordinateur parce que si vous ne le faites pas, un autre étudiant pourrait avoir accès à vos documents et les copier / supprimer / modifier / etc.
+
+Pour vous déconnecter de votre session de travail, vous pouvez cliquer sur le bouton Windows complètement en bas à gauche de l'écran et choisir "déconnexion" ou "redémarrer"
+
+### Remise des travaux
+À venir
+
+### Ghosting
+À venir
