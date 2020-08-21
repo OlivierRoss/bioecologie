@@ -2,7 +2,7 @@
 Les sujets que nous allons aborder:
 - **SAM, LÉA et MIO** : tous des bons amis 
 - **Office 365** : quand il y a de la gratuité, il faut se gâter
-- **Votre espace personnel (T:)** : Pas le C: ...
+- **Votre espace personnel (T:)** : Tant qu'à y être, le M:. Mais pas le C: !
 - **Clef USB** : c'est délicat 
 - **Remise de travaux** : nos secrets à nous
 - **Terminer une session de travail** : vous ne laisseriez pas vos portes de voiture débarrées ...
@@ -53,5 +53,14 @@ Pour accéder à votre compte Office 365 fourni par le Cégep, voici les étapes
 ![L'accueil d'Office](accueil_office.png)
 
 ### Votre espace personnel (T:)
+À chaque soir, le Cégep fait le ménage. Le balais est passé et les ordinateurs sont remis à neuf. Ce grand ménage quotidien signifie que vous ne pouvez pas laisser vos documents et données n'importe où, sous peine de perdre votre travail de la journée.
 
+Étant donné que le Cégep imagine bien que vous ne pourrez pas finir tous vos travaux en une seule journée, un espace vous a été aménagé, le ```T:```. Pour accéder à cet espace :
+- Ouvrez un explorateur de fichier
+- Cliquez sur "Ce PC"
+- Cliquez sur le dossier ```nomdefamillecoupeprenomcoupe (T:)```
+
+Tous les fichiers que vous enregistrez vous appartiennent et seront conservés à long terme. Les fichiers que vous laisserez sur le "bureau" de l'ordinateur ou sur le C: seront effacés.
+
+Dernier emplacement réseau qui vous sera probablement utile lors de votre séjour au Cégep : le M:.
 
