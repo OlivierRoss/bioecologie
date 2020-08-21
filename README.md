@@ -14,5 +14,15 @@ Voici le site d'un cours bien utile qui vous permettra d'exprimer plus clairemen
 ### Le Cégep
 Pas facile de naviguer dans tous les systèmes du Cégep. Pour vous y retrouver, [Suivez le guide](/cegep/). Le contenu du premier cours portera uniquement sur ce sujet et nous devrions déborder un peu sur le 2e cours.
 
+### Windows
+À venir
+
 ### Word
+À venir
+
+### Powerpoint
+À venir
+
+### Excel
+À venir
 
