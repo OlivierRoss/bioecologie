@@ -1,12 +1,13 @@
 ## Le Cégep _(point de vue informatique)_
 Les sujets que nous allons aborder:
 - **SAM, LÉA et MIO** : tous des bons amis 
-- **Office 365** : quand il y a de la gratuité, il faut se gater
+- **Office 365** : quand il y a de la gratuité, il faut se gâter
 - **Votre espace personnel (T:)** : Pas le C: ...
 - **Clef USB** : c'est délicat 
 - **Remise de travaux** : nos secrets à nous
 - **Terminer une session de travail** : vous ne laisseriez pas vos portes de voiture débarrées ...
 - **Ghosting** : pas si effrayant
+- **Impression** : quelques trucs pour garder le fil
 
 ### SAM, LÉA et MIO
 Le Cégep de Sherbrooke vous offre trois plateformes principales sur lesquelles, tout au long de votre parcours à cette vénérable institution, pouvoir :
@@ -44,6 +45,7 @@ C'est probablement l'ensemble d'outils que vous utiliserez le plus dans votre vi
 
 Pour accéder à votre compte Office 365 fourni par le Cégep, voici les étapes à suivre :
 - Naviguez jusqu'à [https://portal.office.com/](https://portal.office.com/)
+- Votre nom d’utilisateur est votre numéro de DA suivi de « @cegepsherbrooke.qc.ca ». Ex: ```20150388@cegepsherbrooke.qc.ca```
 
 ### Votre espace personnel (T:)
 
