@@ -18,7 +18,7 @@ Le Cégep de Sherbrooke vous offre trois plateformes principales sur lesquelles,
 #### SAM
 Dans l'interface de SAM, vous découvrirez une panoplie de service et d'outils auxquels vous avez accès, vous pourrez consulter votre horaire et avoir un aperçu des actualités du Cégep qui vous concernent.  Vous pourrez découvrir SAM en :
 1. Naviguant jusqu'au site du [Cégep](/https://www.cegepsherbrooke.qc.ca/)
-2. Cliquant sur le bouton "INTRANET" situé en haut à droit de la page d'accueil. Pour les paresseux : [https://cegepsherbrooke.omnivox.ca/](https://cegepsherbrooke.omnivox.ca/)
+2. Cliquant sur le bouton "INTRANET" situé en haut à droite de la page d'accueil. Pour les paresseux : [https://cegepsherbrooke.omnivox.ca/](https://cegepsherbrooke.omnivox.ca/)
 
 Si c'est votre première utilisation :
 3. Cliquez sur "Première utilisation". Pour les paresseux : [https://cegepsherbrooke.omnivox.ca/intr/Module/Identification/?TypeUtilisateur=Etudiant](https://cegepsherbrooke.omnivox.ca/intr/Module/Identification/?TypeUtilisateur=Etudiant)
@@ -58,7 +58,7 @@ Pour accéder à votre compte Office 365 fourni par le Cégep, voici les étapes
 Étant donné que le Cégep imagine bien que vous ne pourrez pas finir tous vos travaux en une seule journée, un espace vous a été aménagé, le ```T:```. Pour accéder à cet espace :
 - Ouvrez un explorateur de fichier
 - Cliquez sur "Ce PC"
-- Cliquez sur le dossier ```nomdefamillecoupeprenomcoupe (T:)```
+- Cliquez sur le dossier ```nom_de_famille_coupe_prenom_coupe (T:)```
 
 Tous les fichiers que vous enregistrez sur le T: vous appartiennent et seront conservés à long terme. Les fichiers que vous laisserez sur le "bureau" de l'ordinateur ou sur le C: seront effacés.
 
@@ -78,7 +78,7 @@ Pour déconnecter une clef USB, il faut simplement prendre le temps *d'éjecter*
 - Dans le menu à droite d'un explorateur de fichier, trouvez votre clef USB, faites un clic droit (ouverture du menu contextuel) sur l'icône et cliquez "éjecter"
 
 ### Impression
-À venir
+Dans la barre des tâches de Windows, vous trouverez une petite icône qui vous indique les crédits (l'argent) d'impression qu'il vous reste. L'application qui peut vous informer sur ce solde s'appelle PaperCut
 
 ### Terminer une session de travail
 Il est important de bien se déconnecter à chaque fois que vous terminer l'utilisation d'un ordinateur parce que si vous ne le faites pas, un autre étudiant pourrait avoir accès à vos documents et les copier / supprimer / modifier / etc.
