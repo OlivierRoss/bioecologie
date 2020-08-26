@@ -3,7 +3,7 @@
 
 ![Introduction](/images/banniere.jpeg)
 
-Voici le site d'un cours bien utile qui vous permettra d'exprimer plus clairement vos idées et qui vous permettra d'analyser de façon (relativement) fine les données que vous aurez récoltées. Rien de de bien ambitieux, que des choses utiles!
+Voici le site d'un cours bien utile qui vous permettra d'exprimer plus clairement vos idées et qui vous permettra d'analyser de façon (relativement) fine les données que vous aurez récoltées. Rien  de bien ambitieux, que des choses utiles!
 
 #### Les sujets que nous allons aborder :
 - Le système informatique du Cégep de Sherbrooke (Comment s'y retrouver) 
