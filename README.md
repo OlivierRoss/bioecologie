@@ -7,7 +7,9 @@ Voici le site d'un cours bien utile qui vous permettra d'exprimer plus clairemen
 
 #### Les sujets que nous allons aborder :
 - Le système informatique du Cégep de Sherbrooke (Comment s'y retrouver) 
+- Les fonctionnalités incontournables de Powerpoint (Comment ne pas perdre de temps et impressionner)
 - Les fonctionnalités incontournables de Word (Comment faire un beau document)
+- La manipulation d'images : un peu d'inspiration (Comment mettre en valeur les photos terrain que vous prenez)
 - Les fonctionnalités de base d'Excel (Comment entrer les données de façon claires dans Excel)
 - Des fonctionnalités avancées d'Excel (Comment faire parler les données)
 
@@ -21,6 +23,9 @@ Pas facile de naviguer dans tous les systèmes du Cégep. Pour vous y retrouver,
 À venir
 
 ### Powerpoint
+À venir
+
+### Manipulation d'image (GIMP)
 À venir
 
 ### Excel
