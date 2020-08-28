@@ -31,3 +31,5 @@ Pas facile de naviguer dans tous les systèmes du Cégep. Pour vous y retrouver,
 ### Excel
 À venir
 
+## Liste des laboratoires
+[Laboratoire 1](/laboratoires/1)
