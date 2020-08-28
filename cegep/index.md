@@ -7,7 +7,6 @@ Les sujets que nous allons aborder:
 - **Impression** : quelques trucs pour garder le fil
 - **Terminer une session de travail** : vous ne laisseriez pas vos portes de voiture débarrées ...
 - **Remise de travaux** : nos secrets à nous
-- **Ghosting** : pas si effrayant
 
 ### SAM, LÉA et MIO
 Le Cégep de Sherbrooke vous offre trois plateformes principales sur lesquelles, tout au long de votre parcours à cette vénérable institution, pouvoir :
@@ -77,8 +76,18 @@ Pour déconnecter une clef USB, il faut simplement prendre le temps *d'éjecter*
 - Dans le menu de la barre des tâches, en bas à droite de l'écran, vous trouverez une icône (![Icône de clef ush](/clef_usb.png)). Faites un clic droit (ouverture du menu contextuel) sur l'icône  et cliquez "éjecter"
 - Dans le menu à droite d'un explorateur de fichier, trouvez votre clef USB, faites un clic droit (ouverture du menu contextuel) sur l'icône et cliquez "éjecter"
 
+![Déconnecter une clef](clef_usb.png)
+
 ### Impression
 Dans la barre des tâches de Windows, vous trouverez une petite icône qui vous indique les crédits (l'argent) d'impression qu'il vous reste. L'application qui peut vous informer sur ce solde s'appelle PaperCut
+
+Pour imprimer, il sera souvent nécessaire pour vous d'ajouter l'imprimante à votre liste d'imprimantes accessibles. Donc, pour imprimer, vous devrez :
+- Selon le logiciel, trouver le bouton ou la commande d'impression.
+- Si l'imprimante du local n'est pas dans votre liste d'imprimantes, "Recherchez une imprimante"
+- Entrez le numéro du local (ou le numéro d'imprimante, tel qu'indiqué sur la feuille accrochée à côté de celle-ci) et ajoutez l'imprimante.
+- Vous pouvez maintenant imprimer.
+
+![Impressions](impressions.png)
 
 ### Terminer une session de travail
 Il est important de bien se déconnecter à chaque fois que vous terminer l'utilisation d'un ordinateur parce que si vous ne le faites pas, un autre étudiant pourrait avoir accès à vos documents et les copier / supprimer / modifier / etc.
@@ -88,5 +97,3 @@ Pour vous déconnecter de votre session de travail, vous pouvez cliquer sur le b
 ### Remise des travaux
 Tel que mentionné plus tôt, à moins d'indication contraire, je vous demanderai toujours de me remettre vos travaux par MIO à l'aide d'une pièce jointe attachée à votre message.
 
-### Ghosting
-À venir

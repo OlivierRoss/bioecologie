@@ -23,7 +23,7 @@ Découverte de Powerpoint
 6. Les raccourcis clavier
 7. Powerpoint
 
-## Devoir
+## Laboratoire
 M'envoyer une arborescence.
 
 ## Documents
