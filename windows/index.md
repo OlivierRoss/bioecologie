@@ -1,9 +1,10 @@
 ## Windows
 Les sujets que nous allons aborder dans ce cours:
 - **Se déplacer dans l'arborescence de Windows** : simple à première vue
+- **Capture d'écran** : l'origine du "selfie"
 - **Les opérations de manipulation de fichier et de dossier** : avec ça vous pourrez-vous rendre loin! 
-- **Les outils de compression** : pas magiques, mais presque
-- **Téléchargements** : un petit guide pour ne pas se perdre
+- **Les outils de compression (Zip)** : pas magiques, mais presque
+- **Les raccourcis clavier** : soyez plus rapides et ayez l'air professionnels!
 
 ### Menu contextuel
 Avant que nous abordions les sujets relatifs à Windows, un terme technique qui reviendra fréquemment : "menu contextuel". Ce menu vous donne toutes les options de manipulation d'un fichier (ou de ne n'importe quoi d'autre). Pour accéder : _clic droit_ sur l'objet de votre choix.
