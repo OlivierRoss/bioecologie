@@ -36,7 +36,15 @@ Déplacer
 Copier
 
 ### Zip
-À venir
+"Zipper" ou des fichiers fait référence à l'action de mettre un ou plusieurs fichiers / dossiers dans une archive et de la compresser pour que son poids (en octets) soit plus faible. Image grossière : le camion-poubelle qui ramasse vos ordures, les mets dans conteneur avec d'autres ordures et puis les compresse. Seule différence : on peut "dézipper" des fichiers, mais c'est plus difficile avec des ordures.
+
+Deux cas de figure typiques dans lesquels "zipper" un fichier pourrait être pertinent :
+- Vos fichiers sont trop gros. Dans les cas où vous avez plusieurs fichiers qui contiennent du texte (demandez à votre professeur pourquoi c'est moins efficace avec les autres types de fichier), vous pourriez réduire l'espace occupé par vos fichiers de 20% à 80%, selon le cas.
+- Vous voulez envoyer plusieurs fichiers et dossiers. Il est souvent plus simple d'envoyer un seul fichier qu'une multitude. De plus, il n'est pas possible d'envoyer un dossier par courriel. Dans ces cas, il est utile de "zipper" vos fichiers pour créer une seule archive et puis de l'envoyer.
+
+Sur les ordinateurs du Cégep, pour "zipper" des fichiers, il vous suffit de les sélectionner et puis d'ouvrir le menu contextuel (clic droit sur les fichiers sélectionnés) et puis de les compresser avec l'outil 7zip. Pour "dézipper", faites l'opération inverse en ouvrant le menu contextuel sur le fichier "zippé"
+
+Note : le nom "zip" provient tout simplement du type d'extension qui est associé aux fichiers compressés.
 
 ### Raccourcis clavier
 Les raccourcis clavier sont une excellente façon pour vous de travailler plus rapiement et plus intuitivement. Tous les raccourcis présentés ici fonctionnent autant sur Windows que sur Mac. Pour Windows ce sera une combinaison de la touche CTRL + [une lettre] et pour Mac, ce sera une combinaison de la touche "Pomme" + [une lettre]. Voici la listes des raccourcis :
