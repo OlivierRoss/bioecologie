@@ -19,8 +19,8 @@ Pour prendre une capture d'écran, deux options s'offrent à vous :
   - Appuyer sur Windows (le logo de Windows en bas à gauche sur votre clavier) et "Impr ecran", au-dessus du bouton "Suppr"
   - L'image sera enregistée dans Images > Captures d'écran > Capture d'écran 1.png
 2. Avec l'outil de capture d'écran
-(Capture d'écran)[/windows/capture_ecran.jpeg]
-  - (Capture d'écran)[/windows/capture_ecran.jpeg]
+!(Capture d'écran)[/windows/capture_ecran.jpeg]
+  - !(Capture d'écran)[/windows/capture_ecran.jpeg]
   - Cliquez sur menu Windows, complètement en bas à gauche de l'écran
   - Tapez "Capture". Pas besoin de taper plus que ça, l'outil devrait apparaitre
   - Cliquez sur l'outil
