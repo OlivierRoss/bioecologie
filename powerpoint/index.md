@@ -17,6 +17,15 @@ C'est dans l'onglet Accueil que vous effectuerez la plupart des opérations cour
 
 ### Création
 
+#### Importation de thèmes
+Voici, sans aucun doute, la partie la plus importante de cette page. Créer une présentation ayant des airs professionnels prend du temps et du talent. En tant qu'étudiants en bioécologie, vous manquerez probablement de un ou de l'autre ou même des deux quand viendra le temps de créer des présentations. L'internet le sait et on peut même dire que l'internet est fait, à la base, pour palier à ce genre de problème. Je vous invite donc, lorsque vous aurez à monter un powerpoint, à utiliser un modèle préfabriqué.
+
+Je vous donne la référence de ma banque de modèles préférée (mais il en existe plusieurs autres) ((malheureusement en anglais)) : [Slidesgo](https://slidesgo.com/). Pour utiliser les modèles, naviguez sur le site, trouvez un modèle qui vous convient, téléchargez-le, modifiez-le. Voilà.
+
+![Slidesgo](/powerpoint/slidesgo.png)
+
+Exemple de ce que j'ai créé en moins de cinq heures avec ce site : [Les environnements de travail numériques](https://docs.google.com/presentation/d/1G5JvUgfwx58aAk1-rOlqsbXeew-EGwFKuw_pJATkRrA/edit?usp=sharing)
+
 ### Transitions
 
 ### Animations
