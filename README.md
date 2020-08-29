@@ -17,12 +17,12 @@ Voici le site d'un cours bien utile qui vous permettra d'exprimer plus clairemen
 Pas facile de naviguer dans tous les systèmes du Cégep. Pour vous y retrouver, [Suivez le guide](/cegep/). Le contenu du premier cours portera uniquement sur ce sujet et nous devrions déborder un peu sur le 2e cours.
 
 ### Windows
-À venir
-
-### Word
-À venir
+Les bases de l'utilisation de Windows. Rien de fou, que de bons rappels. [Suivez le guide](/windows/)
 
 ### Powerpoint
+On fait le tour de Powerpoint, vous devriez y trouver un peu d'inspiration. [Suivez le guide](/powerpoint/)
+
+### Word
 À venir
 
 ### Manipulation d'image (GIMP)
