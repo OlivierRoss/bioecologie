@@ -9,7 +9,9 @@ Comme l'outil est énorme, voici une présentation des principales fonctionnalit
 ### Accueil
 C'est dans l'onglet Accueil que vous effectuerez la plupart des opérations courantes. Les options de mise ne forme du texte (les mêmes que dans Word et Excel) s'y retrouvent : 
 - Taille, police, alignement, couleur, surlignement, style du texte
-- Ajout de nouvelle diapositives 
+- Ajout de nouvelle diapositives. C'est ici que vous créerez des diapositives pour les titres ou du contenu ou des statistiques, etc.
+- Élément particulier de l'onglet Accueil qui mérite votre attention : Réorganiser (à droite du menu).
+- ![Réorganiser](/powerpoint/reorganiser.png)
 
 ### Insertion
 

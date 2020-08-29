@@ -20,7 +20,7 @@ Pas facile de naviguer dans tous les systèmes du Cégep. Pour vous y retrouver,
 Les bases de l'utilisation de Windows. Rien de fou, que de bons rappels. [Suivez le guide](/windows/)
 
 ### Powerpoint
-On fait le tour de Powerpoint, vous devriez y trouver un peu d'inspiration. [Suivez le guide](/powerpoint/)
+On fait le tour de Powerpoint. Vous devriez y trouver un peu d'inspiration. [Suivez le guide](/powerpoint/)
 
 ### Word
 À venir
@@ -33,4 +33,5 @@ On fait le tour de Powerpoint, vous devriez y trouver un peu d'inspiration. [Sui
 
 ## Liste des laboratoires
 [Laboratoire 1](/laboratoires/1)
+
 [Laboratoire 2](/laboratoires/2)
