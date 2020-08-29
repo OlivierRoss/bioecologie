@@ -11,13 +11,33 @@ C'est dans l'onglet Accueil que vous effectuerez la plupart des opérations cour
 - Taille, police, alignement, couleur, surlignement, style du texte
 - Ajout de nouvelle diapositives. C'est ici que vous créerez des diapositives pour les titres ou du contenu ou des statistiques, etc.
 - Élément particulier de l'onglet Accueil qui mérite votre attention : Réorganiser (à droite du menu).
-- ![Réorganiser](/powerpoint/reorganiser.png)
+
+![Réorganiser](/powerpoint/reorganiser.png)
+Le section "Réorganiser" vous permet de 
+- jouer avec les plans
+- de grouper des éléments qui devraient toujours garder les mêmes proportions et distances
+- d'aligner les éléments
+- etc.
+
+C'est une section très riche que vous devriez apprendre à connaître.
 
 ### Insertion
+Le nom de cette section est plutôt démonstratif de ce que vous y trouverez. Les outils principaux : 
+- Tableau : Pour présenter de l'information structurée, c'est toujours bien utile.
+- Image : L'insertion d'une image vous permet d'insérer des images de votre ordinateur, de votre bibliothèque d'image, et même, directement du web.
+- Formes : Rectangles, cercles, étoiles, philactères, etc. C'est ici que vous trouverez toutes les formes dont vous aurez besoin.
+- Icônes : On pourrait penser que les icônes ne font que dédoubler la fonctionnalité image, mais dans un monde où les communications doivent être de plus en plus courtes et concices, l'utilisation d'icônes qui ont toutes une identité visuelle similaire est presque incontournable. C'est ce que cette section vous permet de faire. 
+- Graphique : Pour les présentation qui se basent sur des données analysées dans Excel, l'insertion de graphiques au sein même du Powerpoint sera très utile. Fait intéressant : il est possible de lier le graphique dans Powerpoint à son original de façon à ce que lorsque graphique évolue dans Excel, les changements soient répercutés dans votre présentation.
+- Équation : pour ceux et celles qui continueront leurs études en sciences, il sera proablement utile de savoir intérgrer des équations mathématiques plus ou moins complexes dans les présentation. C'est ici que vous trouverez tout ce dont vous avez beson et _beaucoup_ plus.
 
 ### Dession
+Dans cette section vous trouverez les outils pour faire des dessins à la main. Pour ceux et celles qui n'ont pas de tablette graphique, c'est généralement à éviter.
+
+Fonctionnalité intéressante : Powerpoint vous fourni un peu d'intelligence artificielle pour transformer votre caligraphie en texte ou en équation et vos dessins en formes.
+![Intelligence artificielle](/powerpoint/ia.png)
 
 ### Création
+La section création vous permet de vous choisir un thème préconçu et des couleurs associées pour que vous n'ayez pas besoin de faire le travail de graphisme associé à la création d'une identité visuelle. Découvrez les possibilités en choisissant un thème et en ajoutant des diapositives.
 
 #### Importation de thèmes
 Voici, sans aucun doute, la partie la plus importante de cette page. Créer une présentation ayant des airs professionnels prend du temps et du talent. En tant qu'étudiants en bioécologie, vous manquerez probablement de un ou de l'autre ou même des deux quand viendra le temps de créer des présentations. L'internet le sait et on peut même dire que l'internet est fait, à la base, pour palier à ce genre de problème. Je vous invite donc, lorsque vous aurez à monter un powerpoint, à utiliser un modèle préfabriqué.
@@ -35,6 +55,10 @@ Exemple de ce que j'ai créé en moins de cinq heures avec ce site : [Les enviro
 ### Diaporama
 
 ## Panneau des diapositives
-Dans ce panneau, vous pouvez 
+Dans ce panneau, vous pouvez :
+- Ajouter des diapositives :
+- Copier des diapositives :
+- Supprimer des diapositives :
+- Déplacer des diapositives :
 
 ## Espace de création
