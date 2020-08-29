@@ -33,3 +33,4 @@ Pas facile de naviguer dans tous les systèmes du Cégep. Pour vous y retrouver,
 
 ## Liste des laboratoires
 [Laboratoire 1](/laboratoires/1)
+[Laboratoire 2](/laboratoires/2)

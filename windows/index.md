@@ -14,7 +14,7 @@ Les sujets que nous allons aborder dans ce cours:
 L'arborescence fait référence à la façon les fichiers et les dossiers sont imbriqués les uns dans les autres. Vous aurez peut-être déjà remarqué qu'une arborescence est une sorte de structure pyramidale qui nous permet de classer de façon logique les informations, un peu à la manière de la taxonomie d'Artistote, que vous étudierez probablement beaucoup dans vos cours de botanique.
 
 ### Capture d'écran
-!(Capture d'écran)[/windows/capture_ecran.jpeg]
+![Capture d'écran](/windows/capture_ecran.jpeg)
 
 Pour prendre une capture d'écran, deux options s'offrent à vous :
 1. Avec le raccourcis clavier
