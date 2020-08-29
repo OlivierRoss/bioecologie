@@ -27,3 +27,22 @@ Pour prendre une capture d'écran, deux options s'offrent à vous :
   - Cliquez sur "Nouveau"
   - Avec le bouton gauche de la souris que vous laisserez enfoncé, dessinez le contour de l'image que vous voulez capturer.
 
+### Manipulation de fichiers
+Naviguer
+Créer
+Supprimer
+Modifier
+Déplacer
+Copier
+
+### Zip
+À venir
+
+### Raccourcis clavier
+Les raccourcis clavier sont une excellente façon pour vous de travailler plus rapiement et plus intuitivement. Tous les raccourcis présentés ici fonctionnent autant sur Windows que sur Mac. Pour Windows ce sera une combinaison de la touche CTRL + [une lettre] et pour Mac, ce sera une combinaison de la touche "Pomme" + [une lettre]. Voici la listes des raccourcis :
+- A : Sélectionner tout. Sur une page web, dans un fichier Word ou Excel, dans l'explorateur de fichier, et.
+- X : couper 
+- C : copier
+- V : coller
+- F : rechercher un mot dans une texte
+- Z : défaire la dernière opération
