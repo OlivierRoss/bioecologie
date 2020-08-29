@@ -2,13 +2,11 @@
 Les sujets que nous allons aborder dans ce cours:
 - **Se déplacer dans l'arborescence de Windows** : simple à première vue
 - **Les opérations de manipulation de fichier et de dossier** : avec ça vous pourrez-vous rendre loin! 
-  - Créer
-  - Déplacer
-  - Copier
-  - Modifier
-  - Supprimer
 - **Les outils de compression** : pas magiques, mais presque
 - **Téléchargements** : un petit guide pour ne pas se perdre
+
+### Menu contextuel
+Avant que nous abordions les sujets relatifs à Windows, un terme technique qui reviendra fréquemment : "menu contextuel". Ce menu vous donne toutes les options de manipulation d'un fichier (ou de ne n'importe quoi d'autre). Pour accéder : _clic droit_ sur l'objet de votre choix.
 
 ### Arborescence de Windows
 L'arborescence fait référence à la façon les fichiers et les dossiers sont imbriqués les uns dans les autres. Vous aurez peut-être déjà remarqué qu'une arborescence est une sorte de structure pyramidale qui nous permet de classer de façon logique les informations, un peu à la manière de la taxonomie d'Artistote, que vous étudierez probablement beaucoup dans vos cours de botanique.
@@ -28,12 +26,17 @@ Pour prendre une capture d'écran, deux options s'offrent à vous :
   - Avec le bouton gauche de la souris que vous laisserez enfoncé, dessinez le contour de l'image que vous voulez capturer.
 
 ### Manipulation de fichiers
-Naviguer
-Créer
-Supprimer
-Modifier
-Déplacer
-Copier
+![Icone explorateur de fichiers](/windows/icone_explorateur_fichiers.png)
+Les opérations décrites ici ne sont pas les plus courantes, mais elles constituent réellement la base de l'utilisation d'un ordinateur. À partir de l'explorateur de fichiers (image ci-haut), voici les principales opérations que vous pouvez faire.
+1. Naviguer : 
+2. Rechercher : 
+3. Créer : Pour créer un nouveau fichier dans l'explorateur de fichiers, ouvrez le menu contextuel dans un espace vide du dossier affiché.
+4. Supprimer : Pour supprimer un fichier, ouvrez le menu contextuel et cliquez sur "Supprimer" ou "Mettre dans la corbeil", selon le cas.
+5. Renommer : Pour renommer un fichier, ouvrez le menu contextuel et cliquez sur "Renommer"
+6. Déplacer : Pour déplacer un fichier, vous ouvrez le menu contextuel et cliquez sur "couper". Le fichier est maintenant dans le Presse-papier de Windows. Pour réellement le déplacer, déplacez-vous dans le dossier de votre choix, ouvrez le menu contextuel et cliquez sur "coller". Il disparaitra de son emplacement original.
+7. Copier : Pour copier un fichier, vous pouvez simplement ouvrir le menu contextuel et cliquer sur "copier". Le fichier est maintenant dans le Presse-papier de Windows. Pour réellement le copier, déplacez-vous dans le dossier de votre choix, ouvrez le menu contextuel et cliquez sur "coller".
+
+![Explorateur de fichiers](/windows/explorateur_fichiers.png)
 
 ### Zip
 "Zipper" ou des fichiers fait référence à l'action de mettre un ou plusieurs fichiers / dossiers dans une archive et de la compresser pour que son poids (en octets) soit plus faible. Image grossière : le camion-poubelle qui ramasse vos ordures, les mets dans conteneur avec d'autres ordures et puis les compresse. Seule différence : on peut "dézipper" des fichiers, mais c'est plus difficile avec des ordures.
@@ -48,7 +51,7 @@ Note : le nom "zip" provient tout simplement du type d'extension qui est associ�
 
 ### Raccourcis clavier
 Les raccourcis clavier sont une excellente façon pour vous de travailler plus rapiement et plus intuitivement. Tous les raccourcis présentés ici fonctionnent autant sur Windows que sur Mac. Pour Windows ce sera une combinaison de la touche CTRL + [une lettre] et pour Mac, ce sera une combinaison de la touche "Pomme" + [une lettre]. Voici la listes des raccourcis :
-- A : Sélectionner tout. Sur une page web, dans un fichier Word ou Excel, dans l'explorateur de fichier, et.
+- A : Sélectionner tout. Sur une page web, dans un fichier Word ou Excel, dans l'explorateur de fichier, etc.
 - X : couper 
 - C : copier
 - V : coller
