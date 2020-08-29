@@ -27,16 +27,20 @@ Pour prendre une capture d'écran, deux options s'offrent à vous :
 
 ### Manipulation de fichiers
 ![Icone explorateur de fichiers](/windows/icone_explorateur_fichiers.png)
-Les opérations décrites ici ne sont pas les plus courantes, mais elles constituent réellement la base de l'utilisation d'un ordinateur. À partir de l'explorateur de fichiers (image ci-haut), voici les principales opérations que vous pouvez faire.
+Les opérations décrites ici ne sont pas les plus courantes, mais elles constituent réellement la base de l'utilisation d'un ordinateur. À partir de l'explorateur de fichiers (image ci-haut), voici les principales opérations que vous pouvez faire. Les # font référence à l'image ci-dessous.
 1. Naviguer : 
-2. Rechercher : 
+  - #2 : Dossier actuel
+  - #3 : Favoris
+  - #4 : Arborescence complète de l'ordinateur
+  - #5 : Contenu du dossier actuel (ou résultats de la recherche)
+2. Rechercher : (voir #1 ci-dessous) Pour rechercher un fichier, une taille, une date, une extension tapez ce qui vous passe par la tête dans cette barre de recherche. 
 3. Créer : Pour créer un nouveau fichier dans l'explorateur de fichiers, ouvrez le menu contextuel dans un espace vide du dossier affiché.
 4. Supprimer : Pour supprimer un fichier, ouvrez le menu contextuel et cliquez sur "Supprimer" ou "Mettre dans la corbeil", selon le cas.
 5. Renommer : Pour renommer un fichier, ouvrez le menu contextuel et cliquez sur "Renommer"
 6. Déplacer : Pour déplacer un fichier, vous ouvrez le menu contextuel et cliquez sur "couper". Le fichier est maintenant dans le Presse-papier de Windows. Pour réellement le déplacer, déplacez-vous dans le dossier de votre choix, ouvrez le menu contextuel et cliquez sur "coller". Il disparaitra de son emplacement original.
 7. Copier : Pour copier un fichier, vous pouvez simplement ouvrir le menu contextuel et cliquer sur "copier". Le fichier est maintenant dans le Presse-papier de Windows. Pour réellement le copier, déplacez-vous dans le dossier de votre choix, ouvrez le menu contextuel et cliquez sur "coller".
 
-![Explorateur de fichiers](/windows/explorateur_fichiers.png)
+![Explorateur de fichiers](/windows/explorateur_fichiers.jpeg)
 
 ### Zip
 "Zipper" ou des fichiers fait référence à l'action de mettre un ou plusieurs fichiers / dossiers dans une archive et de la compresser pour que son poids (en octets) soit plus faible. Image grossière : le camion-poubelle qui ramasse vos ordures, les mets dans conteneur avec d'autres ordures et puis les compresse. Seule différence : on peut "dézipper" des fichiers, mais c'est plus difficile avec des ordures.
