@@ -49,6 +49,13 @@ Je vous donne la référence de ma banque de modèles préférée (mais il en ex
 Exemple de ce que j'ai créé en moins de cinq heures avec ce site : [Les environnements de travail numériques](https://docs.google.com/presentation/d/1G5JvUgfwx58aAk1-rOlqsbXeew-EGwFKuw_pJATkRrA/edit?usp=sharing)
 
 ### Transitions
+Les transitions servent à donner un look 90's à vos présentations. Elles permettent de gérer la façon dont le changement entre deux diapositives (la transition) se fait. Il existe de nombreux effets, fondu, rotation, appararition, etc. qui peuvent se faire plus ou moins rapidement, selon la configuration choisie. Elle peuvent être lancées manuellement (au clic de la souris par exemple) ou après un temps pré-déterminé (après 15 secondes par exemple.)
+
+Vous trouverez ci-dessous une image du menu. Cette image contient la totalité des options qui s'offrent à vous en matière de transitions. Rien de mieux que la pratique pour bien comprendre comment elles fonctionnent.
+
+Note : les transitions s'appliquent _au début_ de l'affichage d'une diapositive. On peut donc appliquer une transition sur la première diapositive.
+
+![Transitions](/powerpoint/transitions.png)
 
 ### Animations
 
