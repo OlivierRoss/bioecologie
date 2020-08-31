@@ -60,6 +60,7 @@ Note : les transitions s'appliquent _au début_ de l'affichage d'une diapositive
 ### Animations
 
 ### Diaporama
+Dans le menu diaporama, vous trouverez les commandes pour lancer votre présentation.
 
 ## Panneau des diapositives
 Dans ce panneau, vous pouvez :
@@ -69,3 +70,13 @@ Dans ce panneau, vous pouvez :
 - Déplacer des diapositives :
 
 ## Espace de création
+
+### Diapositives
+
+### Commentaires
+Fait intéressant pour ceux et celles qui feront une utilisation régulière de présentations powerpoint : sous l'espace de création des diapositives, une boite de texte invite l'utilisateur à entrer des commentaires par rapport à la diapositive. Lors de la création de la présentation, cette section peut contenir des notes sur les éléments à améliorer, mais, une fois la présentation complétée, la section commentaire pour servir de notes pour le présentateur. En effet, lorsque le diaporama est lancé en mode "Présentateur", la section commentaires sera visible seulement depuis l'écran du présentateur, ce qui peut être bien utile lors d'une présentation devant public.
+
+![Section commentaires](/powerpoint/section_commentaires.png)
+
+![La vue du présentateur](/powerpoint/vue_présentateur.png)
+
