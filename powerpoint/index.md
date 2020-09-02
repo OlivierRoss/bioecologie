@@ -58,9 +58,15 @@ Note : les transitions s'appliquent _au début_ de l'affichage d'une diapositive
 ![Transitions](/powerpoint/transitions.png)
 
 ### Animations
+Les animations sont à utiliser avec beaucoup de parcimonie. Elles permettent de déplacer ou de faire apparaître des éléments sur une diapositive. Un peu comme avec les transitions, sélectionnez d'abord l'élément que vous voulez animer, choisissez l'animation que vous voulez lui appliquer et déterminer quel sera le déclencheur de l'animation (au clic, après un certain temps, après une autre animation, etc.).
+
+Encore une fois rien ne vaut la pratique pour bien comprendre comment fonctionnent les animations.
 
 ### Diaporama
-Dans le menu diaporama, vous trouverez les commandes pour lancer votre présentation.
+Dans le menu diaporama, vous trouverez les commandes pour lancer votre présentation. Trois commandes risquent de vous être utile dans vos vies d'étudiant et de professionnel : 
+- Lire le diaporama : ce bouton, complètement à gauche permet de lancer la présentation (diaporama) à partir de la première diapositive.
+- Lire à partir de la diapositive actuelle : ce nom explique plutôt bien sa fonction. Très utile lorsque vous êtes sortis de votre présentation, pour aller montrer un site web par exemple. Ce bouton vous permettra d'éviter de recommencer du début et de donner mal à la tête à votre audience en passant rapidement sur les 15 premières diapositives.
+- Lire en mode présentateur (ou cocher la case "Utiliser le mode présentateur") : permet, lorsque votre diaporama est projété sur un autre écran, de voir vos notes et de garder le compte du temps dans une interface bien utile. _Si vous ne possédez qu'un seul moniteur, vous pouvez tester ce mode en apuyant sur Alt+F5._
 
 ## Panneau des diapositives
 Dans ce panneau, vous pouvez :
