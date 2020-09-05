@@ -23,7 +23,7 @@ Les bases de l'utilisation de Windows. Rien de fou, que de bons rappels. [Suivez
 On fait le tour de Powerpoint. Vous devriez y trouver un peu d'inspiration. [Suivez le guide](/powerpoint/)
 
 ### Word
-À venir
+On fait le tour de Word. Quand on pense que c'est fini et ben y'en a encore! [Suivez le guide](/word/)
 
 ### Manipulation d'image (GIMP)
 À venir
