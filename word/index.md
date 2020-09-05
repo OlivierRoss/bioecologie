@@ -15,7 +15,9 @@ C'est aussi dans cette section que vous pourrez trouver les fonctionnalités "in
 
 ### Disposition
 ![Disposition](/word/disposition.png)
-La plupart des options de disposition du texte sont bien connues.
+La plupart des options de disposition du texte sont bien connues. J'ai pris la liberté d'enrectangler deux outils méconnus dans la section disposition. 
+- Celui de droite (le drôle de "P" inversé) sert à afficher les marques de mise en forme, c'est-à-dire : les espaces, les tabulations, les retours à la ligne, etc. Quand un document a une drôle de mise en page et que vous avez de la difficulté à déterminer pourquoi, cet outil vous sera souvent utile.
+- Celui du milieu en bas sert à déterminer l'espacement entre les lignes d'un paragraphe, mais aussi entre les paragraphes. Donc plutôt que deux de faire deux retours à la ligne pour insérer un espace entre deux paragraphes, il serait mieux de définir un espacement typique entre deux paragraphes et d'appliquer le style à tous le texte. Appuyez sur la petite flèche pour avoir toutes les options en ligne avec l'espacement.
 
 ### Styles
 ![Styles](/word/styles.png)
@@ -30,3 +32,16 @@ Pour intégrer les styles à votre quotidien il faut en comprendre deux aspects 
   - En créant un nouveau style : dans la barre de menu des styles, appuyez sur "Volet style" puis "Nouveau style". Suivez les instructions et appliquez le nouveau style à votre bloc de texte une fois que vous êtes satisfaits.
 
 Pour bien voir quels styles sont appliqués dans votre texte, vous pouvez cocher la case "Afficher les guides de style" en bas à gauche du menu "Volet styles".
+
+## Insertion
+
+## Dessin
+Très similaire à ce que avons déjà vu sur Powerpoint, la section dessin permet d'intégrer des contenus écrits à main levée. Encore une fois, sans outils destinés à cette fonction, cette section risque de donner de drôles de résultats.
+
+## Création
+
+### Thèmes
+Par rapport à la section création de Powerpoint, celle-ci est beaucoup plus satisfaisante et c'est en bonne partie parce que Word n'est pas un outil qui porte des projets qui demandent une grande créativité visuelle. En particulier pour la création de simples rapports, utiliser les styles simples et déjà bien agencés fournis par le logiciel devrait vous assurer un rendu visuel agréable. Étant donné que les thèmes proposés par Word ne font que modifier les styles qui sont appliqués dans le texte, une bonne stratégie peut être d'écrire l'entièreté du contenu, de s'assurer que les styles sont bien appliqués sur tous les blocs de texte et puis de simplement jouer avec les styles de l'onglet création jusqu'à ce que le résultat vous satisfasse.
+
+### Filigrane
+Une autre fonctionnalité intéressante du menu création : l'utilisation de filigrane. C'est la fonctionnalité qui permet par exemple au MI6 et à James Bond d'écrire "TOP SECRET" en _filigrane_ sur tous les documents qui lui sont remis. On écrit souvent "Brouillon" ou "Document de travail" avec cet outil.
