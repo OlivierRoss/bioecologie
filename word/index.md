@@ -38,6 +38,14 @@ Pour bien voir quels styles sont appliqués dans votre texte, vous pouvez cocher
 
 ## Insertion
 - Pages
+
+### Tableaux
+Les tableaux dans Word ont une importance particulière. Ils sont souvent à la base des designs de pages complexes. Les curriculums vitaes, les calendriers, les recettes utilisent des tableaux pour leur formattage. En jouant avec les bordures et les marges, en appliquant des styles et des couleurs aux contenus et, surtout, en imbriquant les tableaux pour en faire des structures complexes, on peut arriver à produire une grande palette styles pour les projets.
+
+Étant donné que la capacité à paramétrer efficacement les tableaux est essentielle pour arriver à produire les designs désirés, il faut absolument maitriser la gestion des marges, des bordures et de l'alignement dans les tableaux. Allons-y :
+
+- Marges et bordures 
+
 - Entête
 - Pied de page
 - Lettrine
