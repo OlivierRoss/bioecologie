@@ -41,3 +41,5 @@ On fait le tour de Word. Quand on pense que c'est fini et ben y'en a encore! [Su
 [Laboratoire 4](/laboratoires/4)
 
 [Laboratoire 5](/laboratoires/5)
+
+[Laboratoire 6](/laboratoires/6)
